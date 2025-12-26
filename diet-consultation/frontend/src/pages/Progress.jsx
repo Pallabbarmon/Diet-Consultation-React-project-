@@ -1,0 +1,1 @@
+export default function Progress(){return (<div className='card'>Progress page (placeholder)</div>);}

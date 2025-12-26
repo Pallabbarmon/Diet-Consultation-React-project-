@@ -1,0 +1,1 @@
+export default function Meals(){return (<div className='card'>Meals page (placeholder)</div>);}
